@@ -39,7 +39,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" > <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"  width="48" height="48"/> </a> 
-  <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width="48" height="48"/> </a> 
+  <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> 
     
    
 </p>
