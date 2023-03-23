@@ -67,7 +67,7 @@
 
 ## Connect with me:
 <p align="left">
-
+    <p> E-mail: tauasantops@gmail.com </p>
 <a href = "https://discordapp.com/users/454059471765766156/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
 
 </p>
