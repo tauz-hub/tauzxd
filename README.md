@@ -21,27 +21,14 @@
 <p align="left"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin"/> </a>
-    <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png"  width="48" height="48"/> </a>
-     <a href="https://developer.android.com/" target="_blank"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"  width="48" height="48"/> </a>
-    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
-    <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> 
-    <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  width="48" height="48"/></a> 
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"  width="48" height="48"/> </a>
     <a href="https://docs.python.org/3/" target="_blank"> <img src="https://i.imgur.com/4oTjHoN.png" width="48" height="48"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw"  width="48" height="48"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://handlebarsjs.com/" target="_blank" > <img src="https://cdn.iconscout.com/icon/free/png-256/handlebars-282936.png"  width="48" height="48"/> </a> 
-    <a href="https://ejs.co/" target="_blank" > <img src="https://i.imgur.com/D7Yj6zz.png"  width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" > <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"  width="48" height="48"/> </a> 
-  <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> 
-    
-   
+    <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> 
 </p>
 
 <br/>
